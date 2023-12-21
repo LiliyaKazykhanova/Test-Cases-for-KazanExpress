@@ -93,7 +93,7 @@ I joined train and test data into one main dataset for the correct feature proce
 | **Naive Bayes** | by default | 0.67 |
 | <font color='LightSeaGreen'>**LinearSVC**</font> | by default | 0.94 |
 | <font color='LightSeaGreen'>**Random Forest**</font> | by default (n_estimators=15) | 0.97 |
-| **GridSearchCV<br>Random Forest** | n_estimators=100<br>max_depth=900<br>max_features=400<br>min_samples_leaf=3 |
+| **GridSearchCV<br>Random Forest** | n_estimators=100<br>max_depth=900<br>max_features=400<br>min_samples_leaf=3 | 0.81 |
 |  |  |  |
 
 RESULTS of F1-weighted score on valid: 83% (final model - LinearSVC)
