@@ -21,7 +21,8 @@ Marketplace Product categorization
 *Training on GPU Text classification Neural Network*
 
 **NOTES**:
-* I run it based on Kaggle resources (without accelerator)
+* This work also includes Web_scraper file, which one demonstrates how we can load new product card for further investigation 
+* I run it based on Kaggle resources
 * Git has limit: 100 MB. That's why some of the files are not pushed (datasets, best_model.pt, train_data.pkl, valid_data.pkl)
 * This project (input and output data) is available on Kaggle by the links: `https://www.kaggle.com/code/liliyak/solution-ke/notebook` and `https://www.kaggle.com/liliyak/ke-text-transformers`
 ***
